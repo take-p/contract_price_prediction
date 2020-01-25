@@ -1,0 +1,7 @@
+*.csv
+*.ipg
+*.jpeg
+*.png
+sample/
+image/
+scraped_img/
